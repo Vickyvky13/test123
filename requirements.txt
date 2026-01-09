@@ -5,7 +5,7 @@ python-dotenv==1.0.0
 motor
 pyromod
 aiohttp
-apscheduler
+apscheduler==1.0.0
 pillow
 gitpython
 tgcrypto
